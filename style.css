@@ -13,3 +13,7 @@ h1{
     display: flex;
     
 }
+.assign img{
+    width: 200px;
+    padding: 10px;
+}
